@@ -92,7 +92,7 @@ COD là phương thức thanh toán trong phạm vi nghiệp vụ, không phải
 
 ## 6. Kế hoạch thực hiện
 
-Thời gian dự kiến theo thông tin dự án: **11/11/2026–03/01/2027**. Nhóm tổ chức công việc theo các giai đoạn dưới đây; thời hạn chi tiết và người phụ trách từng công việc được cập nhật trong kế hoạch dự án.
+Nhóm tổ chức công việc theo các giai đoạn dưới đây; thời hạn chi tiết và người phụ trách từng công việc được cập nhật trong kế hoạch dự án sau.
 
 | Giai đoạn | Công việc chính | Kết quả dự kiến |
 | --- | --- | --- |
@@ -112,4 +112,3 @@ Nhóm ưu tiên luồng bán hàng cốt lõi trước các chức năng mở r�
 - Phân tích website: [docs/competitor-analysis.md](docs/competitor-analysis.md)
 
 Các liên kết tương đối trên trỏ đến tài liệu dự kiến trong cùng repository. Nhóm cần bổ sung các tệp tương ứng để sử dụng đầy đủ các liên kết.
-
